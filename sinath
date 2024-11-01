@@ -1,0 +1,10 @@
+#num1 = 44
+#num2 = 66
+#sum =num1+num2
+#print("the sum of given two numnber",sum)
+
+solution-2(with user-inputs)
+num1=flote(input("enter a number here: "))
+num2=flot(input("enter another number here: "))
+sum=num1+num2
+print("the sum of the given number is",sum)
